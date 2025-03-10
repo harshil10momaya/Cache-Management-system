@@ -14,8 +14,10 @@ preventing data inconsistency.
 ● Dynamic Cache Management – Supports three cache replacement policies:
 
 ○ FIFO (First In First Out) – Removes the oldest entry in the cache.
+
 ○ LRU (Least Recently Used) – Removes the least recently accessed
 entry.
+
 ○ LFU (Least Frequently Used) – Removes the least frequently accessed
 entry.
 
